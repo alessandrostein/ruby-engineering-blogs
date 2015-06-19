@@ -8,3 +8,5 @@ This repository is based on https://github.com/kilimchoi/engineering-blogs
 * Shopify http://www.shopify.com/technology
 
 # Individuals/Group Contributors
+
+* Nando Vieira http://nandovieira.com/
