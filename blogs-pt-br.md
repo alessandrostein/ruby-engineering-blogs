@@ -6,3 +6,5 @@ Este repositório é baseado em https://github.com/kilimchoi/engineering-blogs
 * Resultados Digitais http://shipit.resultadosdigitais.com.br/blog/categoria/dev/
 
 # Individual/Grupo
+
+* Nando Vieira http://simplesideias.com.br
