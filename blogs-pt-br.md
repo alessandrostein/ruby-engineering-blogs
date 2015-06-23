@@ -7,4 +7,5 @@ Este repositório é baseado em https://github.com/kilimchoi/engineering-blogs
 
 # Individual/Grupo
 
+* Fabio Akita http://www.akitaonrails.com/
 * Nando Vieira http://simplesideias.com.br
