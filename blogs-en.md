@@ -6,6 +6,7 @@ This repository is based on https://github.com/kilimchoi/engineering-blogs
 * Code School https://www.codeschool.com/blog/category/development/
 * Codeship https://blog.codeship.com/?s=Ruby
 * Shopify http://www.shopify.com/technology
+* BIGBinary http://blog.bigbinary.com/
 
 # Individuals/Group Contributors
 
