@@ -10,5 +10,6 @@ This repository is based on https://github.com/kilimchoi/engineering-blogs
 
 # Individuals/Group Contributors
 
+* João Moura https://medium.com/@joaomdmoura
 * Nando Vieira http://nandovieira.com/
 * Ruby Plus https://rubyplus.com/articles
