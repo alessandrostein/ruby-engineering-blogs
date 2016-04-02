@@ -10,7 +10,8 @@ This repository is based on https://github.com/kilimchoi/engineering-blogs
 
 # Individuals/Group Contributors
 
+* Better Ruby http://www.betterruby.com/
+* Jake Yesbeck http://jakeyesbeck.com/
 * João Moura https://medium.com/@joaomdmoura
 * Nando Vieira http://nandovieira.com/
 * Ruby Plus https://rubyplus.com/articles
-* Better Ruby http://www.betterruby.com/
