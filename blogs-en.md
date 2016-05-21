@@ -15,3 +15,4 @@ This repository is based on https://github.com/kilimchoi/engineering-blogs
 * João Moura https://medium.com/@joaomdmoura
 * Nando Vieira http://nandovieira.com/
 * Ruby Plus https://rubyplus.com/articles
+* Idiosyncratic Ruby http://idiosyncratic-ruby.com/index/
